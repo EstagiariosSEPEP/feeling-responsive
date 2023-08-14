@@ -1,14 +1,11 @@
-# Author details
-#
-# 1. Edit information below
-# 2. Change site author in config.yml
-# 3. Change default post/page authors in config.yml
-#
-# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-phlow: # replace this with your info
-  name: "Phlow"
-  siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
-  email:
-  twitter: "@phlow"
-# you can add more authors here
+- name: Eric Mill
+  github: konklone
+  meta_description: lorem ipsulum
+
+- name: Parker Moore
+  github: parkr
+  meta_description: lorem ipsulum
+
+- name: Liu Fengyun
+  github: liufengyun
+  meta_description: lorem ipsulum

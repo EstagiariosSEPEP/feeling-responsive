@@ -1,0 +1,32 @@
+- secretaria: Secretaria Municipal da Fazenda
+  motivo: Elaboração do PLOA 2023/2024
+  descricao: Trata-se da elaboração do Projeto de Lei de Diretrizes Orçamentárias e do Projeto de Lei Orçamentária Anual, a cargo da Coordenadoria de Planejamento / SF. Na Coordenadoria de Planejamento estão lotados 6 APPGGs, todos envolvidos, direta ou indiretamente, com a elaboração do PLOA, inclusive em funções de chefia e de execução de atividades de alta complexidade técnica.
+
+- secretaria: Secretaria Municipal de Inovação e Tecnologia
+  motivo: SP156 (Solução de Atendimento SP156) 
+  descricao: "Implantação da solução de atendimento SP156 (canais de atendimento centralizados na central telefônica 156), mapeamento e redesenho de processos de atendimento a cidadãs e a cidadãos, incorporação de centrais telefônicas espalhadas ao 156 (Defesa Civil, 1188, Ouvidoria Geral do Município, entre outros, em especial em 2017), Guia de Serviços ao Cidadão (depois: Carta de Serviços ao Cidadão), Política de Atendimento ao Cidadão (a partir de 2018), Digitalização de serviços, aplicativo SP156, reformulações ao Portal SP156 (e estabelecimento deste como um grande canal de comunicação com a população). "
+
+- secretaria: Controladoria Geral do Município
+  motivo: Reestruturação Administrativa da CGM
+  descricao: "Coordenação do processo de reestruturação total do órgão, com a adequação da estrutura e das atribuições das unidades com as legislações vigentes, principalmente a Lei Geral de Proteção de Dados - LGPD e Nova Lei de Licitações (Lei Federal nº 14.133/2021)."
+
+- secretaria: Secretaria Municipal de Inovação e Tecnologia
+  motivo: Reformulação do portal SP156 de atendimento ao cidadão
+  descricao: "Lorem"
+  
+- secretaria: Secretaria Executiva de Planejamento e Entregas Prioritárias
+  motivo: Sistema de Monitoramento Estratégico - SMAE
+  descricao: "Sistema em código aberto e com licença livre desenvolvido em parceria com a FGV para monitoramento dos Programas de Metas da Prefeitura (pode ser customizado para qualquer Programa de Metas) e para acompanhamento de Proejtos Estratégicos."
+
+
+- secretaria: Secretaria Municipal de Desenvolvimento Econômico e Trabalho
+  motivo:  Inteligência de dados para suporte à tomada de decisão
+  descricao: "Implantação de processos e ferramentas de inteligência de dados"
+   
+- secretaria: Secretaria Municipal de Gestão
+  motivo: "Programa de Residência "
+  descricao: "Programa com foco na formação em serviço para profissionais que desejam ter uma experiência técnica e formativa no serviço público municipal"
+  
+- secretaria: Secretaria Municipal de Relações Internacionais
+  motivo: Relatório Voluntário Local  
+  descricao: "Co-coordenação da elaboração do VLR - Voluntary Local Review, apresentad à ONU e à comunidade nacional e internacional, documento apresenta mapeamento de iniciativas, os avanços da cidade rumo ao atingimento dos Objetivos do Desenvolvimento Sustentável (ODS) e as metas da Agenda Municipal 2030."
