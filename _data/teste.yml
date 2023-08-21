@@ -12,7 +12,13 @@
 
 - secretaria: Secretaria Municipal de Inovação e Tecnologia
   motivo: Reformulação do portal SP156 de atendimento ao cidadão
-  descricao: "Lorem"
+  descricao: "Lorem: Lorem lorem
+    <br />
+    Lorem: Lorem lorem
+    <br />
+    Lorem: Lorem lorem
+    <br />
+    "
   
 - secretaria: Secretaria Executiva de Planejamento e Entregas Prioritárias
   motivo: Sistema de Monitoramento Estratégico - SMAE
